@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌎 I'm based in Dominican Republic.<br>💻 See my portfolio: [Portfolio Link goes here].<br>📩 Contact me at: rafaelmartinez011.dev@gmail.com<br>🔭 I’m currently working on Allways Forwarding.<br>🌱 I’m currently learning Node.js<br>👯 I’m looking to collaborate on any kind of projects mainly on the backend side.<br>💬 Ask me about anything at all~!<br>🚀 When there is no motivation, discipline kicks in. 
+🌎 I'm based in Dominican Republic.<br>💻 See my portfolio: [Portfolio Link goes here].<br>📩 Contact me at: rafaelmartinez011.dev@gmail.com<br>🔭 I’m currently working on Allways Forwarding.<br>🌱 I’m currently learning Node.js<br>👯 I’m looking to collaborate on any kind of projects mainly on the backend side. Also would like to participate in open source projects.<br>💬 Ask me about anything at all~!<br>🚀 When there is no motivation, discipline kicks in. 
 
 
 ## 🌐 Socials:
